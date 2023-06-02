@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @2k4sm
-- 👀 I’m interested in Computer Programming,Data science and learning new things about Computers.
-- 🌱 I’m currently learning Golang,Python,Web development and DSA.
+- 👋 Hi, I’m @2k4sm(Shrinibas Mahanta)
+- 👀 I like meeting new people and love to learn new things.
+- 🌱 I’m currently learning web development and microservices with go and Advanced programming in python.
 - 📫 How to reach me .. you can reach me at <shrinibasmahanta2004@gmail.com>
 
 <!---
