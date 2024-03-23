@@ -7,5 +7,5 @@
 * 💬 Ask me about microservices,backend,networking,linux,etc.
 * 📫 How to reach me: shrinibasmahanta2004@gmail.com
 * ❤️ I love learning new things about internet,computers,
-* ⚡ Fun fact: <a href='https://github.com/marketplace/actions/quote-readme'><!--STARTS_HERE_FACT_README-->
-<!--ENDS_HERE_FACT_README--> </a>
+* ⚡ Fun fact: <a href='https://github.com/marketplace/actions/quote-readme'><!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README--> </a>
