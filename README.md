@@ -3,7 +3,6 @@
 # Hi there 👋 
 ## Let's kick things off with a captivating introduction.
 
-
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGlwczh0YTh1dzdkc2NjdTNtdDczaDhqd2k5OGFsNnI4dnZ5OWtjZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OocLVILtd7ybm/giphy.gif">
 
 </div>
@@ -18,6 +17,7 @@ how_to_reach_me: shrinibasmahanta2004@gmail.com
 located_in: Bengaluru,India
 studying_at: Scaler School of Technology.
 i_love_to_talk_about: microservices,backend,networking,linux,etc.
+why_computer_science: I really enjoy learning about the internet, computers, and new technologies.
 
 education:
   [
@@ -55,7 +55,7 @@ hobbies:
   [
     listening to rock music,
     playing video games,
-    exporing and learning new technologies.
+    exporing and learning new technologies
   ]
 
 tools_&_technologies_i_use:
@@ -80,10 +80,8 @@ tools_&_technologies_i_use:
     javascript,
   ]
 
-why_computer_science: I really enjoy learning about the internet, computers, and new technologies.
 ```
 ---
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
@@ -104,17 +102,18 @@ why_computer_science: I really enjoy learning about the internet, computers, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="45" height="45"/>
 </p>
 
+---
 
 
 
+![2k4sm's GitHub stats](https://github-readme-stats.vercel.app/api?username=2k4sm&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2k4sm&exclude_repo=aerofitAnalysis&theme=tokyonight&layout=donut)](https://github.com/2k4sm)
 
-
-
-
-
-
+# :smiley: Let's wrap up the introduction with an quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
 <i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
+
+
