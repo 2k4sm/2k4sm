@@ -17,6 +17,7 @@ pronouns: he/him
 how_to_reach_me: shrinibasmahanta2004@gmail.com
 located_in: Bengaluru,India
 studying_at: Scaler School of Technology.
+i_love_to_talk_about: microservices,backend,networking,linux,etc.
 
 education:
   [
@@ -44,46 +45,42 @@ currently_learning:
 
 goals: 
   [
-    fuel my curiosity little bit everyday,
+    fuel my curiosity little by little everyday,
     learn new things and apply them to good use,
-    make mistakes,learn from them,
+    make mistakes,learn from it,
     be happy.
   ]
 
 hobbies:
-
   [
     listening to rock music,
     playing video games,
     exporing and learning new technologies.
   ]
 
-tools_and_technologies_i_use:
-
-[
-  golang,
-  java,
-  python,
-  rust,
-  docker,
-  mysql,
-  mongodb,
-  gradle,
-  springboot,
-  fastAPI,
-  bash,
-  vscode,
-  git,
-  github,
-  gitlab,
-  azure,
-  javascript,
-]
+tools_&_technologies_i_use:
+  [
+    golang,
+    java,
+    python,
+    rust,
+    docker,
+    mysql,
+    mongodb,
+    gradle,
+    springboot,
+    fastAPI,
+    bash,
+    vscode,
+    git,
+    github,
+    gitlab,
+    azure,
+    warp-terminal,
+    javascript,
+  ]
 
 why_computer_science: I really enjoy learning about the internet, computers, and new technologies.
-
-ask_me_anything_about: microservices,backend,networking,linux,etc.
-
 ```
 ---
 
