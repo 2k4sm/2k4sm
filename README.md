@@ -8,8 +8,9 @@
 
 </div>
 
-----
-:man_technologist: Little About ME.
+---
+
+# :man_technologist: Little About ME.
 ```yaml
 name: Shrinibas Mahanta
 pronouns: he/him
@@ -27,19 +28,84 @@ interests:
   [
     Backend Development,
     Cybersecurity,
-    DevOps
+    DevOps,
+    Cloud Computing,
+    Web Development
   ]
 
+currently_learning:
+  [
+    microservices in golang,
+    springboot/fastAPI,
+    data-structures-and-algorithms,
+    databases,
+    middlewares
+  ]
 
+goals: 
+  [
+    fuel my curiosity little bit everyday,
+    learn new things and apply them to good use,
+    make mistakes,learn from them,
+    be happy.
+  ]
 
+hobbies:
 
+  [
+    listening to rock music,
+    playing video games,
+    exporing and learning new technologies.
+  ]
 
+tools_and_technologies_i_use:
 
+[
+  golang,
+  java,
+  python,
+  rust,
+  docker,
+  mysql,
+  mongodb,
+  gradle,
+  springboot,
+  fastAPI,
+  bash,
+  vscode,
+  git,
+  github,
+  gitlab,
+  azure,
+  javascript,
+]
 
-i_love: learning new things about internet,computers
+why_computer_science: I really enjoy learning about the internet, computers, and new technologies.
+
+ask_me_anything_about: microservices,backend,networking,linux,etc.
 
 ```
-* 💬 Ask me about microservices,backend,networking,linux,etc.
+---
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="45" height="45"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="45" height="45"/>
+</p>
 
 
 
@@ -50,8 +116,7 @@ i_love: learning new things about internet,computers
 
 
 
-
-  <a href='https://github.com/marketplace/actions/quote-readme'>
+  <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
 <i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
