@@ -8,5 +8,4 @@
 * 📫 How to reach me: shrinibasmahanta2004@gmail.com
 * ❤️ I love learning new things about internet,computers,
 * ⚡ Fun fact: <a href='https://github.com/marketplace/actions/quote-readme'><!--STARTS_HERE_FACT_README-->
-<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_FACT_README--> </a>
