@@ -109,7 +109,7 @@ tools_&_technologies_i_use:
 ![2k4sm's GitHub stats](https://github-readme-stats.vercel.app/api?username=2k4sm&show_icons=true&theme=tokyonight&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2k4sm&exclude_repo=aerofitAnalysis&theme=tokyonight&layout=compact)](https://github.com/2k4sm)
 
-# :smiley: Let's wrap up the introduction with an quote.
+# :smiley: Let's wrap up the introduction with an fun fact.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
 <i>❝More than 80% of the emails sent daily are spams.❞</i>
