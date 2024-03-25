@@ -110,7 +110,7 @@ tools_&_technologies_i_use:
 ![2k4sm's GitHub stats](https://github-readme-stats.vercel.app/api?username=2k4sm&show_icons=true&theme=tokyonight&layout=compact)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2k4sm&exclude_repo=aerofitAnalysis&theme=tokyonight&layout=compact)](https://github.com/2k4sm)
 
-# :smiley: Let's wrap up the introduction with an fun fact.
+# :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
 <i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
