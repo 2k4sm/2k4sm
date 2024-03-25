@@ -18,46 +18,47 @@ located_in: Bengaluru,India
 studying_at: Scaler School of Technology.
 i_love_to_talk_about: microservices,backend,networking,linux,etc.
 why_computer_science: I really enjoy learning about the internet, computers, and new technologies.
-
-education:
-  [
-    Self Taught Developer,
-    Bachelor's in Computer Science
+```
+```go
+education := [2]string{
+    "Self Taught Developer",
+    "Bachelor's in Computer Science"
+}
+```
+```rust
+let interests = vec![
+    "Backend Development",
+    "Cybersecurity",
+    "DevOps",
+    "Cloud Computing",
+    "Web Development"
+  ];
+```
+```python
+currently_learning = [
+    "microservices in golang",
+    "springboot/fastAPI",
+    "data-structures-and-algorithms",
+    "databases",
+    "middlewares"
   ]
-
-interests: 
-  [
-    Backend Development,
-    Cybersecurity,
-    DevOps,
-    Cloud Computing,
-    Web Development
-  ]
-
-currently_learning:
-  [
-    microservices in golang,
-    springboot/fastAPI,
-    data-structures-and-algorithms,
-    databases,
-    middlewares
-  ]
-
-goals: 
-  [
-    fuel my curiosity little by little everyday,
-    learn new things and apply them to good use,
-    make mistakes,learn from it,
-    be happy.
-  ]
-
-hobbies:
-  [
-    listening to rock music,
-    playing video games,
-    exporing and learning new technologies
-  ]
-
+```
+```java
+private String[] goals = new String[4]{
+    "fuel my curiosity little by little everyday",
+    "learn new things and apply them to good use",
+    "make mistakes,learn from it",
+    "be happy."
+  };
+```
+```javascript
+const hobbies = [
+    "listening to rock music",
+    "playing video games",
+    "exporing and learning new technologies"
+  ];
+```
+```markdown
 tools_&_technologies_i_use:
   [
     golang,
