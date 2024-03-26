@@ -16,7 +16,7 @@ pronouns: he/him
 how_to_reach_me: shrinibasmahanta2004@gmail.com
 located_in: Bengaluru,India
 studying_at: Scaler School of Technology.
-i_love_to_talk_about: microservices,backend,networking,linux,etc.
+i_love_to_talk_about: microservices,backend,networking,containers,linux,etc.
 why_computer_science: I really enjoy learning about the internet, computers, and new technologies.
 ```
 ```go
