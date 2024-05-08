@@ -113,7 +113,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝Mortal Kombat II was so popular when it hit the arcades that several of the machines were later installed with deadlock security panels on the back to prevent thieves from ripping the game’s motherboard straight out of the machine and taking it home.❞</i>
+<i>❝“The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.”— Gene Spafford   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
