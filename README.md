@@ -113,7 +113,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think you are worth what you know, you are very wrong.  Your knowledge today does not have much value beyond a couple of years.  Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.”— Jose M. Aguilar   ❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
