@@ -110,7 +110,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
