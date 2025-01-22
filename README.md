@@ -110,7 +110,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
