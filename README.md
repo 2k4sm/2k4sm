@@ -110,7 +110,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
+<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
