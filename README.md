@@ -110,7 +110,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝A group of 12 engineers designed IBM PC and they were called as “The Dirty Dozen”.❞</i>
+<i>❝“Pessimists, we’re told, look at a glass containing 50% air and 50% water and see it as half empty.  Optimists, in contrast, see it as half full.  Engineers, of course, understand the glass is twice as big as it needs to be.”— Bob Lewis   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
