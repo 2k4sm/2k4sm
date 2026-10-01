@@ -110,7 +110,7 @@ tools_&_technologies_i_use:
 # :smiley: Let's wrap up the introduction with an fun fact or a beautiful quote.
   <a href='https://github.com/marketplace/actions/quote-readme' align=center>
     <!--STARTS_HERE_QUOTE_README-->
-<i>❝“UNIX is simple.  It just takes a genius to understand its simplicity.”— Dennis Ritchie   ❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
   </a>
 
